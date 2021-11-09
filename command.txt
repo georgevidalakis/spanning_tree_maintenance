@@ -1,0 +1,1 @@
+g++ -Wall -O2 connected_components_dfs_controller.cc connected_components_uf_controller.cc edge_intervals_uniform_sampler.cc graph_sampler.cc main.cc solvers.cc -o main.exe
